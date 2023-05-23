@@ -4,8 +4,7 @@ import asyncio
 import youtube_dl
 import time
 
-token = "MTA0MDcwMTg1NzU4NjIyOTI1OQ.G_DIRx.4n1G8kTNxsTxVsi1XRgk0-RsPo5v5k7rHBB4f0"
-
+token = "insert your token here" 
 voice_clients = {}
 
 yt_dl_opts = {'format': 'bestaudio/best'}
